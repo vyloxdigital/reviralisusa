@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /images/
+Crawl-delay: 2
+
+Sitemap: https://reviralisusa.vercel.app/sitemap.xml
